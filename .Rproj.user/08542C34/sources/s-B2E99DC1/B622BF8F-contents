@@ -1,0 +1,5 @@
+```{r}
+filename <- "femaleMiceWeights.csv"
+dat <- read.csv(filename)
+View(read.csv("femaleMiceWeights.csv"))
+```
